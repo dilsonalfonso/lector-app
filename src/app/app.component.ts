@@ -9,4 +9,6 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'lector-app';
+  name = 'LectorApp';
+  description = 'Sistema Integrado de Gestión de Bibliotecas';
 }
